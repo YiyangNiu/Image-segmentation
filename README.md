@@ -7,3 +7,5 @@ Yiyang Niu![image](https://user-images.githubusercontent.com/84714844/119339637-
 ## Dataset
 https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/data
 
+## Code
+unet-with-efficientnet-encoder.ipynb
